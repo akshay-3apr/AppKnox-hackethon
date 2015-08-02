@@ -5,7 +5,7 @@
  */
 
 body {
-    background-image: url("/home/akshay/Desktop/startbootstrap-sb-admin-2-1.0.7/pages/images.jpg");
+    background-image: url("images.jpg");
     background-size: 2560px 1600px;
     background-repeat: no-repeat;
     background-attachment: fixed;
